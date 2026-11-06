@@ -56,7 +56,7 @@ export default function FlowLogin() {
           <>
             <FlowTitle
               subtitle={
-                <Trans>Log in to pick up right where you left off.</Trans>
+                <Trans>Welcome to your self-hosted Stoat instance. Log in to continue.</Trans>
               }
             >
               <Trans>Welcome back</Trans>
